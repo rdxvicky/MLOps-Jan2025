@@ -1,1 +1,1 @@
-This is an example file for the MLOps-Jan2025 repository.
+This is a modified version of example.txt in the G24AIT026 branch.
